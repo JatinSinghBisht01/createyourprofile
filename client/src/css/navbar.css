@@ -1,0 +1,30 @@
+
+  /* nabar */
+  /* .nav-container{
+    
+  } */
+  .nav-container{
+    height: 8vh;
+  }
+  .navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    
+    font-size: 1.5rem;
+  }
+  .navbar{
+    /* background-color: #fbf3ff; */
+    background-color: #fbf3ff;
+  }
+
+  .nav-item:hover{
+    background-color: #F699CD;
+    border-radius: 5px;
+    font-weight: 500;
+    color: #fff;
+  }
+
+  .search{
+    
+    display: inline-flex;
+  }
+  
